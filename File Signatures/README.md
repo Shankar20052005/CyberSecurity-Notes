@@ -1,2 +1,2 @@
-# CyberSecurity-Notes
-This is my personal repo to upload all my CyberSecurity related works and notes
+# File-Signatures
+This README file will give the details regarding File Signatures and their purpose in CyberSecurity.
