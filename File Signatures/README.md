@@ -13,7 +13,17 @@ Why Are File Signatures Important?
 Where to Find File Signatures?
 1. Using Hex Editors
 You can inspect file signatures using a hex editor, such as:
-
 Windows: HxD
 Linux: Ghex (CLI), Bless Hex Editor (GUI)
 Mac: Hex Fiend
+
+2. File Signature Databases
+Gary Kessler’s File Signature Database
+TrID File Identifier Database
+
+3. Using the file Command in Linux
+Linux provides a built-in command to analyze file signatures: file filename
+This command reads the magic number and returns the file type.
+
+Do File Signatures Define the File Extension?
+Not directly. A file extension (e.g., .jpg, .pdf, .exe) is just a label and can be changed by a user. However, the file signature defines the actual file format, ensuring accurate identification.
