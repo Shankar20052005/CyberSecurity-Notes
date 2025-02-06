@@ -1,7 +1,7 @@
 # File-Signatures
-The python code for File metadata viewer is attached in this folder.
-It contains details such as file signatures,size,last modified,etc.
-Tech used: PyQT (for GUI)
+The Python code for the File Metadata Viewer is attached in this folder.
+It provides details such as file signatures, size, last modified date, etc.
+Technology used: PyQt (for GUI).
 
 This README file will give the details regarding File Signatures and their purpose in CyberSecurity.
 
