@@ -1,0 +1,6 @@
+RTF Control - Access Granted
+It is a code within Rich Text Format manipulated by hackers to embed malicious code or exploit vulnerabilities when parsing the file.
+Embed the OLE objects (Object Linking and Embedding)
+Mitigations: disable auto-exec of OLE objects, use secure email gateways, update for latest security patches.
+
+Ransomware Task Force (RTF)
