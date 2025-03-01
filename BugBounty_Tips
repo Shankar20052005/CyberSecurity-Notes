@@ -1,3 +1,9 @@
 # My Bug Bounty tips:
-1. Go for multiple domains/features or role-based access with 20 reports in the last 90 days -> high chance of valid vuln
-2. 
+1. Go for multiple domains/features or role-based access with 20 reports in the last 90 days.
+    High chance for finding valid vulnerabilities
+
+2. If the program is less responsive, and the hunters are active on the program,
+    Less chance of finding valid vulnerabilities
+    So, first response/triage should be in between 1–2 days, Time to bounty should be between 5–10 days
+
+    
