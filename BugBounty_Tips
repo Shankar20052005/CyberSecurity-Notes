@@ -6,4 +6,22 @@
     Less chance of finding valid vulnerabilities
     So, first response/triage should be in between 1–2 days, Time to bounty should be between 5–10 days
 
-    
+*** SOME PROGRAMS ALSO PROVIDE PARTIAL BOUNTIES APART FROM FULL BOUNTIES ***
+*** KEEP YOUR HOPES HIGH ***
+
+3. If the program is paying a low bounty for high-severity issues then it may not worth the time you have spent on the program.
+    The bounty should define the time spent on the program.
+
+    Low — $150–$250
+    Medium — $500–$750
+    High — $1500-$2000
+    Critical — $3000+
+
+
+AFTER PROGRAM SELECTION, SPEND ATLEAST 7-10 DAYS ON THE PROGRAM DEPENDING ON THE FUNCTIONALITY AND FEATURES OF THE APPLICATION.
+IF YOU DIDN'T FIND ANY, MOVE ONTO THE NEXT PROGRAM BUT,
+KEEP CHECKING THE PREVIOUS PROGRAM EVERY WEEK (AS THE CODE CHANGES AND FEATURES ARE DEVELOPED DAILY).
+
+
+# REFERENCE:
+https://infosecwriteups.com/selecting-a-program-for-bug-bounty-on-hackerone-e51ce8a83b2a
