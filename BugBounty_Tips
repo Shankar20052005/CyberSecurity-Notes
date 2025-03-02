@@ -1,27 +1,30 @@
-# My Bug Bounty tips:
-1. Go for multiple domains/features or role-based access with 20 reports in the last 90 days.
-    High chance for finding valid vulnerabilities
+# My Bug Bounty Tips
 
-2. If the program is less responsive, and the hunters are active on the program,
-    Less chance of finding valid vulnerabilities
-    So, first response/triage should be in between 1–2 days, Time to bounty should be between 5–10 days
+### 1. Go for multiple domains/features or role-based access with 20 reports in the last 90 days.  
+   **High chance for finding valid vulnerabilities.**
 
-*** SOME PROGRAMS ALSO PROVIDE PARTIAL BOUNTIES APART FROM FULL BOUNTIES ***
-*** KEEP YOUR HOPES HIGH ***
+### 2. If the program is less responsive, and the hunters are active on the program:  
+   - **Less chance of finding valid vulnerabilities.**  
+   - First response/triage should be **between 1–2 days**.  
+   - **Time to bounty:** Should be **between 5–10 days**.
 
-3. If the program is paying a low bounty for high-severity issues then it may not worth the time you have spent on the program.
-    The bounty should define the time spent on the program.
+> ***SOME PROGRAMS ALSO PROVIDE PARTIAL BOUNTIES APART FROM FULL BOUNTIES.***  
+> ***KEEP YOUR HOPES HIGH.***
 
-    Low — $150–$250
-    Medium — $500–$750
-    High — $1500-$2000
-    Critical — $3000+
+### 3. If the program is paying a low bounty for high-severity issues, then it may not be worth the time you have spent on the program.  
+   **The bounty should define the time spent on the program.**
 
+   - **Low** — $150–$250  
+   - **Medium** — $500–$750  
+   - **High** — $1500–$2000  
+   - **Critical** — $3000+  
 
-AFTER PROGRAM SELECTION, SPEND ATLEAST 7-10 DAYS ON THE PROGRAM DEPENDING ON THE FUNCTIONALITY AND FEATURES OF THE APPLICATION.
-IF YOU DIDN'T FIND ANY, MOVE ONTO THE NEXT PROGRAM BUT,
-KEEP CHECKING THE PREVIOUS PROGRAM EVERY WEEK (AS THE CODE CHANGES AND FEATURES ARE DEVELOPED DAILY).
+### AFTER PROGRAM SELECTION:
+- Spend **at least 7-10 days** on the program depending on the functionality and features of the application.
+- If you **didn't find any**, **move on to the next program**, but...  
+- **Keep checking the previous program every week** (as the code changes and features are developed daily).
 
+---
 
-# REFERENCE:
-https://infosecwriteups.com/selecting-a-program-for-bug-bounty-on-hackerone-e51ce8a83b2a
+## REFERENCE:
+🔗 [Selecting a Program for Bug Bounty on HackerOne](https://infosecwriteups.com/selecting-a-program-for-bug-bounty-on-hackerone-e51ce8a83b2a)
